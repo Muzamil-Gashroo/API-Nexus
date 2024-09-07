@@ -1,0 +1,24 @@
+
+[ 
+ 
+ Get /users  display all users in html
+ 
+ Get api/users  display all users in json
+ 
+ Get api/users/1  display user ID 1
+
+ Get api/users/2  display user ID 2
+
+ Post api/users   Create new user
+ 
+ Patch api/users edit user 1 
+ 
+ Delete api/users   delte user 1
+
+  -- Done ---
+
+]
+
+
+
+ 
